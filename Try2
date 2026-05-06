@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<title>E minunat să fii sănătos</title>
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black;
+    color: #222;
+  }
+
+  header {
+    background: yellow;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 10px;
+    font-weight: bold;
+    font-size: 22px;
+  }
+
+  .container {
+    display: flex;
+    margin: 10px;
+  }
+
+  nav {
+    background: orange;
+    width: 180px;
+    padding: 20px;
+    border-radius: 15px;
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  nav li {
+    margin: 15px 0;
+    font-weight: bold;
+  }
+
+  main {
+    background: #b7c99a;
+    flex: 1;
+    margin-left: 10px;
+    padding: 20px;
+    border-radius: 15px;
+  }
+
+  article {
+    background: #9fd0d3;
+    margin: 15px 0;
+    padding: 20px;
+    border-radius: 15px;
+  }
+
+  footer {
+    background: #c79acb;
+    padding: 20px;
+    text-align: center;
+    border-radius: 15px;
+    margin: 10px;
+    font-weight: bold;
+  }
+</style>
+</head>
+
+<body>
+
+<header>
+  E minunat să fii sănătos
+</header>
+
+<div class="container">
+  <nav>
+    <ul>
+      <li>Slăbit sănătos</li>
+      <li>Îngrășare sănătoasă</li>
+      <li>Îngrijire zilnică</li>
+      <li>Cauze & soluții</li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <article>
+      <h3>Cum să slăbești sănătos</h3>
+      <p>Pentru a slăbi corect, trebuie să ai o alimentație echilibrată și să faci mișcare zilnic. Evită fast-food-ul, dulciurile în exces și băuturile carbogazoase. Consumă legume, fructe și proteine sănătoase. Sportul, chiar și mersul pe jos, ajută foarte mult.</p>
+    </article>
+
+    <article>
+      <h3>Cum să te îngrași sănătos</h3>
+      <p>Dacă ești prea slab, este important să mănânci mai des și mai nutritiv. Include alimente bogate în proteine, cum ar fi ouăle, carnea și lactatele. Nu mânca junk food, ci crește calitatea alimentelor. Antrenamentele de forță te pot ajuta să crești masa musculară.</p>
+    </article>
+
+    <article>
+      <h3>Cum să ai grijă de tine zilnic</h3>
+      <p>Un stil de viață sănătos înseamnă somn suficient, hidratare și mișcare. Bea cel puțin 2 litri de apă pe zi, dormi 7-8 ore și evită stresul. Igiena personală și echilibrul mental sunt la fel de importante ca alimentația.</p>
+    </article>
+
+    <article>
+      <h3>Cauze ale obezității și slăbirii excesive</h3>
+      <p>Persoanele devin supraponderale din cauza alimentației nesănătoase, lipsei de mișcare și stresului. Slăbirea excesivă poate fi cauzată de alimentație insuficientă sau probleme de sănătate. Soluția este echilibrul: mâncare corectă, sport și grijă de corp.</p>
+    </article>
+
+    <article>
+      <h3>De ce este bine să fii sănătos</h3>
+      <p>Persoanele sănătoase sunt mai energice, mai fericite și, în general, mai frumoase. Un corp sănătos înseamnă încredere în sine și o viață mai lungă și mai bună.</p>
+    </article>
+
+  </main>
+</div>
+
+<footer>
+  Ai grijă de sănătatea ta în fiecare zi!
+</footer>
+
+</body>
+</html>
