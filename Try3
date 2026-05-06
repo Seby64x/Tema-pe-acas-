@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+<meta charset="UTF-8">
+<title>E minunat să fii sănătos</title>
+
+<style>
+  body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: black;
+    color: #222;
+    font-size: 18px;
+  }
+
+  header {
+    background: yellow;
+    padding: 30px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 28px;
+    font-weight: bold;
+  }
+
+  .container {
+    display: flex;
+    margin: 10px;
+  }
+
+  nav {
+    background: orange;
+    width: 220px;
+    padding: 25px;
+    border-radius: 20px;
+  }
+
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  nav li {
+    margin: 20px 0;
+  }
+
+  nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+  }
+
+  nav a:hover {
+    color: white;
+  }
+
+  main {
+    background: #b7c99a;
+    flex: 1;
+    margin-left: 10px;
+    padding: 25px;
+    border-radius: 20px;
+  }
+
+  section {
+    background: #9fd0d3;
+    margin: 20px 0;
+    padding: 25px;
+    border-radius: 20px;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+
+  footer {
+    background: #c79acb;
+    padding: 25px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 10px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+</style>
+
+</head>
+
+<body>
+
+<header>
+  E minunat să fii sănătos
+</header>
+
+<div class="container">
+
+  <nav>
+    <ul>
+      <li><a href="#slabit">Slăbit sănătos</a></li>
+      <li><a href="#ingrasare">Îngrășare sănătoasă</a></li>
+      <li><a href="#ingrijire">Îngrijire zilnică</a></li>
+      <li><a href="#cauze">Cauze & soluții</a></li>
+      <li><a href="#beneficii">Beneficii</a></li>
+    </ul>
+  </nav>
+
+  <main>
+
+    <section id="slabit">
+      <h2>Cum să slăbești sănătos</h2>
+      <p>Slăbitul sănătos înseamnă echilibru. Mănâncă mai puține calorii, dar nu te înfometa. Consumă legume, fructe, proteine și evită zahărul și fast-food-ul. Fă sport zilnic: mers, alergare sau sală.</p>
+    </section>
+
+    <section id="ingrasare">
+      <h2>Cum să te îngrași sănătos</h2>
+      <p>Dacă ești prea slab, mănâncă mai des și mai consistent. Alege alimente sănătoase bogate în proteine și calorii: ouă, carne, lactate, nuci. Fă exerciții pentru a crește masa musculară.</p>
+    </section>
+
+    <section id="ingrijire">
+      <h2>Cum să ai grijă de tine zilnic</h2>
+      <p>Bea apă, dormi suficient și evită stresul. Igiena și sănătatea mentală sunt esențiale. Mișcarea zilnică te ajută să ai energie și o stare bună.</p>
+    </section>
+
+    <section id="cauze">
+      <h2>Cauze și soluții</h2>
+      <p>Obezitatea apare din cauza alimentației nesănătoase și lipsei de mișcare. Slăbirea excesivă vine din lipsa nutrienților. Soluția este echilibrul: dietă corectă și sport.</p>
+    </section>
+
+    <section id="beneficii">
+      <h2>De ce este bine să fii sănătos</h2>
+      <p>Persoanele sănătoase sunt mai energice, mai fericite și mai frumoase. Sănătatea îți oferă încredere și o viață mai lungă.</p>
+    </section>
+
+  </main>
+
+</div>
+
+<footer>
+  Ai grijă de sănătatea ta în fiecare zi!
+</footer>
+
+</body>
+</html>
