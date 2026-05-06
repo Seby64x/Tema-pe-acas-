@@ -1,0 +1,32 @@
+nav {
+  background: orange;
+  width: 140px; /* mai mic */
+  padding: 20px;
+  border-radius: 20px;
+
+  position: sticky;  /* 🔥 rămâne pe ecran */
+  top: 10px;         /* distanță față de sus */
+  height: fit-content;
+}
+
+
+
+
+nav {
+  background: orange;
+  width: 140px;
+  padding: 20px;
+  border-radius: 20px;
+
+  position: fixed;  /* stă fix tot timpul */
+  top: 20px;
+  left: 10px;
+}
+
+
+
+
+
+main {
+  margin-left: 170px; /* ca să nu intre peste nav */
+}
